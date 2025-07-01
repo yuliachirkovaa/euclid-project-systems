@@ -1,1 +1,5 @@
-Developed the frontend of the Euclid project company's website. 
+**Веб-сайт проектной компании Евклид**
+
+Адаптивная, доступная, кроссбраузерная верстка
+
+Ссылка на верстку: https://yuliachirkovaa.github.io/euclid-project-systems/ 
